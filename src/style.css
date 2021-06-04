@@ -1,0 +1,61 @@
+form {
+	text-align: center;
+	font-family: "Montserrat", sans-serif;
+}
+button {
+	text-align: center;
+}
+h1 {
+	text-align: left;
+	font-family: "Didact Gothic", sans-serif;
+	font-size: 52px;
+}
+
+h2,
+h3,
+h4 {
+	font-family: "Montserrat", sans-serif;
+	text-align: center;
+}
+h2 {
+	text-align: center;
+}
+
+ul {
+	list-style-type: none;
+}
+footer {
+	text-align: center;
+}
+
+.app {
+	display: block;
+	max-width: 1200px;
+	margin: 100px;
+	padding: 100px 75px;
+	border: solid 5px coral;
+	background-color: white;
+	border-radius: 20px;
+}
+
+.todaydaytime {
+	text-align: left;
+	font-size: 25px;
+}
+
+.weather1 {
+	font-size: 100px;
+	text-align: center;
+	line-height: 110px;
+	padding: 0px;
+}
+
+.weather2 {
+	font-size: 75px;
+	text-align: center;
+	line-height: 85px;
+}
+.footer {
+	font-family: "Montserrat", sans-serif;
+	text-align: center;
+}
